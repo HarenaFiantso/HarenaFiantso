@@ -23,8 +23,7 @@ current_job: IT Student
 education:
   [
     "Lycée privé Gallo Junior",
-    "Haute Ecole d'Informatique",
-    "Bachelor's in Electronics and Communication",
+    "Haute Ecole d'Informatique - HEI"
   ]
 fields_of_interests:
   [
