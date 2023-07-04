@@ -54,9 +54,8 @@ hobbies: ["Gaming", "Cinema", "Drawing", "Videography", "Photography"]
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
+<p align="left">
 | <a href="https://github.com/HarenaFiantso/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HarenaFiantso&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Fiantso Harena's github stats" /></a> |
 <a href="https://github.com/HarenaFiantso/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarenaFiantso&layout=compact&theme=buefy&hide_border=true" /></a> |
-  
-<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Have a nice day!&height=100&section=footer"/>
 </p>
