@@ -32,7 +32,7 @@ fields_of_interests:
     "Game Development",
     "Mobile development",
   ]
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["PHP, Symfony, Laravel and ReactJS"]
 2023 Goals: ["Create 20+ Projects and learn PHP lol"]
 hobbies: ["Gaming", "Cinema", "Drawing", "Videography", "Photography"]
 ```
