@@ -1,4 +1,4 @@
-[![MasterHead](https://vsthemes.org/uploads/posts/2021-03/1616919859_skrinshot-28-03-2021-13_22_52.webp)](https://github.com/HarenaFiantso)
+ <img alt="Coding" src="https://images.hdqwalls.com/wallpapers/pirate-monkey-d-luffy-from-one-piece-5k-za.jpg">
 
 ## 👨🏻‍💻A Little Bit About Me and My Interests
 
