@@ -1,4 +1,5 @@
  <img alt="Coding" src="https://images.hdqwalls.com/wallpapers/pirate-monkey-d-luffy-from-one-piece-5k-za.jpg">
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&pause=1000&center=true&vCenter=true&random=true&width=435&lines=Hello+everyone+!;Call+Me+Fiantso+Harena)](https://git.io/typing-svg)
 
 ## 👨🏻‍💻A Little Bit About Me and My Interests
 
