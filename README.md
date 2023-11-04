@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
+[![MasterHead](https://vsthemes.org/uploads/posts/2021-03/1616919859_skrinshot-28-03-2021-13_22_52.webp)](https://github.com/HarenaFiantso)
 
 ## 👨🏻‍💻A Little Bit About Me and My Interests
 
@@ -31,8 +29,8 @@ hobbies: ["Gaming", "Football", "Drawing", "Videography", "Photography"]
 ---
 
 ## 📈My GitHub History! :
-![](https://github-readme-stats.vercel.app/api?username=HarenaFiantso&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarenaFiantso&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=HarenaFiantso&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarenaFiantso&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarenaFiantso&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
