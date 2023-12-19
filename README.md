@@ -3,11 +3,11 @@
 ```typescript
 const whoAmI: Person = {
   name: "Fiantso Harena",
-  located_in: "Antananarivo, Madagascar",
-  current_job: "IT Student",
+  locatedIn: "Antananarivo, Madagascar",
+  currentJob: "IT Student",
   education: ["Lycée privé Gallo Junior", "Haute Ecole d'Informatique - HEI"],
-  fields_of_interests: ["Web Development", "UI/UX", "Game Development", "Mobile development"],
-  currently_learning: ["React Native", "GraphQL", "Spring Boot", "ReactJS"],
+  fieldsOfInterests: ["Web Development", "UI/UX", "Game Development", "Mobile development"],
+  currentlyLearning: ["React Native", "GraphQL", "Spring Boot", "ReactJS"],
   hobbies: ["Gaming", "Football", "Drawing", "Videography", "Photography"],
 };
 ```
