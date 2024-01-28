@@ -1,16 +1,6 @@
 ## 🚀 Welcome to Fiantso Harena's world
 
-```typescript
-const whoAmI: Person = {
-  name: "Fiantso Harena",
-  locatedIn: "Antananarivo, Madagascar",
-  currentJob: "IT Student",
-  education: ["Lycée privé Gallo Junior", "Haute Ecole d'Informatique - HEI"],
-  fieldsOfInterests: ["Web Development", "UI/UX", "Game Development", "Mobile development"],
-  currentlyLearning: ["React Native", "GraphQL", "Spring Boot", "ReactJS"],
-  hobbies: ["Gaming", "Football", "Drawing", "Videography", "Photography"],
-};
-```
+<img style="border-radius: 20px" src="https://static.vecteezy.com/system/resources/previews/002/035/205/non_2x/space-scene-with-planet-stars-sun-and-moon-flat-illustration-vector.jpg" />
 
 ---
 
@@ -27,6 +17,5 @@ const whoAmI: Person = {
   <img src="https://github-readme-stats.vercel.app/api?username=HarenaFiantso&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarenaFiantso&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
 
 ---
