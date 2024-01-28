@@ -13,8 +13,6 @@
 ## GitHub History :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarenaFiantso&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=HarenaFiantso&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarenaFiantso&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
