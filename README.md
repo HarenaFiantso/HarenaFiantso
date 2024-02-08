@@ -13,20 +13,18 @@
 class ComputerScienceStudent {
   private name: string;
   private university: string;
-  private major: string;
 
-  constructor(name: string, university: string, major: string) {
+  constructor(name: string, university: string) {
     this.name = name;
     this.university = university;
-    this.major = major;
   }
 
   introduceYourself() {
-    console.log(`Hello, I'm ${this.name}, a computer science student at ${this.university}. My major is ${this.major}. Currently, I'm exploring the exciting world of programming and software development.`);
+    console.log(`Hello, I'm ${this.name}, a computer science student at ${this.university}. Currently, I'm exploring the exciting world of programming and software development.`);
   }
 }
 
-const csStudent = new ComputerScienceStudent("Fiantso Harena", "Haute École d'Informatique - HEI", "Computer Science");
+const csStudent = new ComputerScienceStudent("Fiantso Harena", "Haute École d'Informatique - HEI");
 
 csStudent.introduceYourself();
 ```
