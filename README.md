@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://upset.dev">
-    <img src="https://wallpapers-clan.com/wp-content/uploads/2023/11/monkey-d-luffy-standing-in-water-desktop-wallpaper-preview.jpg" width="200" alt="Avatar" height="150"/>
+    <img src="https://cdn.statically.io/avatar/shape=circle/F" alt="Avatar" height="80"/>
   </a>
   <h1 align="center">Fiantso Harena 🚀</h1>
   <h4 align="center">"Coding is not just about typing lines; it's about crafting solutions. The art of programming lies in turning complex problems into elegant code. Strive for simplicity, and let your creativity shine through 📖"</h4>
