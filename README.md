@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://upset.dev">
-    <img src="https://cdn.statically.io/avatar/shape=circle/https://static.vecteezy.com/system/resources/previews/011/979/708/non_2x/graphics-drawing-landscape-view-outdoor-of-sunset-with-grass-on-the-ground-for-wallpaper-background-illustration-free-vector.jpg" alt="Avatar" height="80"/>
+    <img src="https://cdn.statically.io/avatar/shape=circle/FH" alt="Avatar" height="80"/>
   </a>
   <h1 align="center">Fiantso Harena 🚀</h1>
   <h4 align="center">"Coding is not just about typing lines; it's about crafting solutions. The art of programming lies in turning complex problems into elegant code. Strive for simplicity, and let your creativity shine through 📖"</h4>
