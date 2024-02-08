@@ -6,7 +6,7 @@
   <h4 align="center">"Coding is not just about typing lines; it's about crafting solutions. The art of programming lies in turning complex problems into elegant code. Strive for simplicity, and let your creativity shine through 📖"</h4>
 </p>
 
-<img style="border-radius: 40px" src="https://www.creativefabrica.com/wp-content/uploads/2021/10/23/illustration-of-sunset-in-the-mountains-Graphics-19163456-1.jpg" />
+<img style="border-radius: 40px" src="https://static.vecteezy.com/system/resources/previews/011/979/708/non_2x/graphics-drawing-landscape-view-outdoor-of-sunset-with-grass-on-the-ground-for-wallpaper-background-illustration-free-vector.jpg" />
 
 
 ```ts
