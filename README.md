@@ -33,4 +33,4 @@ csStudent.introduceYourself();
 
 <h3>Some tools that I've used : </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,nodejs,react,next,vite,express,spring,nest,postgresql,sqlite,git,github,aws,md,materialui,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,bash,nodejs,react,next,vite,express,spring,nest,postgresql,sqlite,git,github,aws,md,bootstrap,materialui,tailwind,gmail,idea,linux,maven,postman,redux,stackoverflow,threejs,vscode)](https://skillicons.dev)
